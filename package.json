@@ -1,0 +1,17 @@
+{
+  "name": "franklin",
+  "version": "0.0.1",
+  "description": "Feedback tool used in dbwebb courses",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "dbwebb",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "morgan": "^1.9.1"
+  }
+}
