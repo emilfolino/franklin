@@ -6,6 +6,8 @@ const cors = require('cors');
 
 const app = express();
 
+const feedback = require("./feedback.json");
+
 app.use(cors());
 app.options('*', cors());
 
@@ -26,6 +28,36 @@ app.use(express.static('public'));
 
 // Base route with api-documentation
 app.get('/', (req, res) => res.sendFile(path.join(__dirname + '/documentation.html')));
+
+
+
+app.get("/feedback/:course/:kmom", (req, res) => {
+    if (feedback[req.params.course]) {
+        if (feedback[req.params.course][req.params.kmom]) {
+            return res.json({
+                data: feedback[req.params.course][req.params.kmom]
+            });
+        } else {
+            return res.status(500).json({
+                errors: {
+                    status: 500,
+                    detail: "Kmom was not found"
+                }
+            });
+        }
+    } else {
+        return res.status(500).json({
+            errors: {
+                status: 500,
+                detail: "Course was not found"
+            }
+        });
+    }
+
+
+});
+
+
 
 const server = app.listen(port, () => console.log('Order api listening on port ' + port));
 
