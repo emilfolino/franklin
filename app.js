@@ -48,4 +48,6 @@ app.get(
 
 const server = app.listen(port, () => console.log('Order api listening on port ' + port));
 
+process.title = "franklin";
+
 module.exports = server;
