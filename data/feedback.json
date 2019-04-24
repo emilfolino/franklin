@@ -238,7 +238,7 @@
         },
         "kmom03": {
             "before": "Bra jobbat du är nu halvvägs igenom de första 6 kursmomenten.",
-            "after": "\nKom ihåg att du alltid kan ställa frågor och få feedback i forumet (https://dbwebb.se/forum/viewforum.php?f=47) och på gitter (https://gitter.im/mosbth/webapp).\n\nDu är nu halvvägs genom de sex veckoinlämningar som ingår i kursen. Hoppas allt flyter på i kursen och med Python programmering.\n\n// "
+            "after": "\nKom ihåg att du alltid kan ställa frågor och få feedback i forumet (https://dbwebb.se/forum/viewforum.php?f=47) och på gitter (https://gitter.im/mosbth/webapp).\n\nDu är nu halvvägs genom de sex veckoinlämningar som ingår i kursen. Hoppas allt flyter på i kursen och med JavaScript programmering.\n\n// "
         },
         "kmom04": {
             "before": "",
