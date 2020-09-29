@@ -288,6 +288,10 @@
         }
     },
     "dv1612": {
+        "vecka 2: backend": {
+            "before": "Bra jobbat med att få ihop backend och frontend. Inte alltid helt lätt, men nu är grunden på plats och blir lättare från och med nu.\n\n",
+            "after": "\n\n// "
+        },
         "vecka 3: (dev)ops": {
             "before": "Nu är det på riktigt med en driftsatt sida och en domän därute på det riktiga internet. Bra jobbat!\n\n",
             "after": "\n\n// "
