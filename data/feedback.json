@@ -301,7 +301,7 @@
             "after": "\n\n// "
         },
         "vecka 5: realtid": {
-            "before": "Hej,\n\nBra jobbat med chatten, visst är websockets och meddelanden i realtid coolt!",
+            "before": "Hej,\n\nBra jobbat med chatten, visst är websockets och meddelanden i realtid coolt!\n\n",
             "after": "\n\n// "
         },
         "vecka 6: nosql": {
