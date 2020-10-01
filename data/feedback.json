@@ -300,9 +300,9 @@
             "before": "Hej,\n\nBra jobbat med test i frontend och backend och snyggt med alla gröna badges :)\n\n",
             "after": "\n\n// "
         },
-        "kmom05": {
-            "before": "Hej\n\n",
-            "after": "\nKom ihåg att du alltid kan ställa frågor och få feedback i forumet (https://dbwebb.se/forum/viewforum.php?f=82) och på gitter (https://gitter.im/dbwebb-se/vlinux).\n\n// "
+        "vecka 5: realtid": {
+            "before": "Hej,\n\nBra jobbat med chatten, visst är websockets och meddelanden i realtid coolt!",
+            "after": "\n\n// "
         },
         "vecka 6: nosql": {
             "before": "",
