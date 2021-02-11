@@ -312,5 +312,15 @@
             "before": "Hej\n\n",
             "after": "\n\nLycka till i kommande exjobb och hoppas att skrivande delen av kursen har gett lite hjälp på traven.\n\nBedömningsunderlaget för kursen finns här: https://jsramverk.se/#ladok.\n\nDu har tagit emot ett e-post om att fylla i kursvärdering för kursen. Kursvärderingen kan fyllas i direkt på kursplatsen i Canvas eller via direktlänken i e-postmeddelandet. Kursvärderingen är en viktig del av den feedback vi får för en kurs och jag är mycket tacksam om du vill fylla i kursvärderingen.\n\n// "
         }
+    },
+    "dv1615": {
+        "inlämningsuppgift": {
+            "before": "Hej,\nVälkommen till kursen Introduktion till molnteknologier. Hoppas du trivs med oss och kursen.\n\n",
+            "after": "\n\nKom ihåg att du alltid kan ställa frågor och få återkoppling i Teams.\n\n// "
+        },
+        "projekt": {
+            "before": "Bra jobbat med projektet.\n\n",
+            "after": "\n\nBedömningsunderlaget för kursen finns på projektsidan för kursen på Canvas.\n\nDu har tagit emot ett e-post om att fylla i kursvärdering för kursen. Kursvärderingen kan fyllas i direkt på kursplatsen i Canvas eller via direktlänken i e-postmeddelandet. Kursvärderingen är en viktig del av den feedback vi får för en kurs och vi är mycket tacksamma om du vill fylla i kursvärderingen.\n\n// "
+        }
     }
 }
