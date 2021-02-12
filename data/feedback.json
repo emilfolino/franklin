@@ -322,5 +322,15 @@
             "before": "Bra jobbat med projektet.\n\n",
             "after": "\n\nBedömningsunderlaget för kursen finns på projektsidan för kursen på Canvas.\n\nDu har tagit emot ett e-post om att fylla i kursvärdering för kursen. Kursvärderingen kan fyllas i direkt på kursplatsen i Canvas eller via direktlänken i e-postmeddelandet. Kursvärderingen är en viktig del av den feedback vi får för en kurs och vi är mycket tacksamma om du vill fylla i kursvärderingen.\n\n// "
         }
+    },
+    "pa1438": {
+        "topic klar": {
+            "before": "Hej,\n\nBra jobbat med topic nu är vi igång med exjobbet på riktigt. Nedan finns återkoppling från Conny och Emil. Använd återkopplingen konstruktivt och se till att din handledare tar del av återkopplingen med.\n\n",
+            "after": "\n\nConny:\n\nEmil:\n\nTilldelad handledare:\n\nKontakta din handledare i handlednings chatten på Discord. Viktigt inför inlämning av proposal är att arbeta med metodbeskrivningen och hur du ska samla in data.\n\n// "
+        },
+        "projekt": {
+            "before": "Bra jobbat med projektet.\n\n",
+            "after": "\n\nBedömningsunderlaget för kursen finns på projektsidan för kursen på Canvas.\n\nDu har tagit emot ett e-post om att fylla i kursvärdering för kursen. Kursvärderingen kan fyllas i direkt på kursplatsen i Canvas eller via direktlänken i e-postmeddelandet. Kursvärderingen är en viktig del av den feedback vi får för en kurs och vi är mycket tacksamma om du vill fylla i kursvärderingen.\n\n// "
+        }
     }
 }
