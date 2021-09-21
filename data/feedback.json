@@ -292,21 +292,21 @@
             "before": "Bra jobbat med att få ihop backend och frontend. Inte alltid helt lätt, men nu är grunden på plats och blir lättare från och med nu.\n\n",
             "after": "\n\n// "
         },
-        "vecka 3: (dev)ops": {
-            "before": "Nu är det på riktigt med en driftsatt sida och en domän därute på det riktiga internet. Bra jobbat!\n\n",
-            "after": "\n\n// "
-        },
-        "vecka 4: test": {
+        "vecka 3: test": {
             "before": "Hej,\n\nBra jobbat med test i frontend och backend och snyggt med alla gröna badges :)\n\n",
             "after": "\n\n// "
         },
-        "vecka 5: realtid": {
+        "vecka 4: sockets": {
             "before": "Hej,\n\nBra jobbat med chatten, visst är websockets och meddelanden i realtid coolt!\n\n",
             "after": "\n\n// "
         },
-        "vecka 6: nosql": {
+        "vecka 5: auth": {
+            "before": "Hej,\n\nNu börjar det likna ett riktigt system. Bra jobbat med alla delarna under kursens gång.\n",
+            "after": "\n// "
+        },
+        "vecka 6: graphql": {
             "before": "",
-            "after": "\nLycka till med projektet. Se till att återanvända det du har gjort vecka 1-6 i projektet.\n\n// "
+            "after": "\nLycka till med projektet.\n\n// "
         },
         "projekt": {
             "before": "Hej\n\n",
