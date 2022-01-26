@@ -314,7 +314,7 @@
         }
     },
     "dv1615": {
-        "kmom01": {
+        "kmom01:": {
             "before": "Hej,\nVälkommen till kursen Introduktion till molnteknologier. Hoppas du trivs med oss och kursen.\n\n",
             "after": "\n\nKom ihåg att du alltid kan ställa frågor och få återkoppling i Discord.\n\n// "
         },
