@@ -288,29 +288,33 @@
         }
     },
     "dv1612": {
-        "vecka 2: backend": {
+        "frontend": {
+            "before": "Hej,\nVälkommen till kursen jsramverk. Hoppas kmom01 har varit en bra start på kursen och att du har fått utforska frontend-ramverk.\n\n",
+            "after": "\n\n// "
+        },
+        "backend": {
             "before": "Bra jobbat med att få ihop backend och frontend. Inte alltid helt lätt, men nu är grunden på plats och blir lättare från och med nu.\n\n",
             "after": "\n\n// "
         },
-        "vecka 3: test": {
-            "before": "Hej,\n\nBra jobbat med test i frontend och backend och snyggt med alla gröna badges :)\n\n",
+        "test": {
+            "before": "Hej,\n\nBra jobbat med test i frontend och backend.\n\n",
             "after": "\n\n// "
         },
-        "vecka 4: sockets": {
+        "sockets": {
             "before": "Hej,\n\nBra jobbat med editorn, visst är websockets och att skriva i realtid coolt!\n\n",
             "after": "\n\n// "
         },
-        "vecka 5: auth": {
+        "auth": {
             "before": "Hej,\n\nNu börjar det likna ett riktigt system. Bra jobbat med alla delarna under kursens gång.\n",
             "after": "\n// "
         },
-        "vecka 6: graphql": {
-            "before": "",
+        "graphql": {
+            "before": "Hoppas att GraphQL har varit en bra och intressant upplevelse, som gett mersmak.",
             "after": "\nLycka till med projektet.\n\n// "
         },
         "projekt": {
             "before": "Hej\n\n",
-            "after": "\n\nLycka till i kommande exjobb och hoppas att skrivande delen av kursen har gett lite hjälp på traven.\n\nBedömningsunderlaget för kursen finns här: https://jsramverk.se/#ladok.\n\nDu har tagit emot ett e-post om att fylla i kursvärdering för kursen. Kursvärderingen kan fyllas i direkt på kursplatsen i Canvas eller via direktlänken i e-postmeddelandet. Kursvärderingen är en viktig del av den feedback vi får för en kurs och jag är mycket tacksam om du vill fylla i kursvärderingen.\n\n// "
+            "after": "\n\nBedömningsunderlaget för kursen finns här: https://jsramverk.se/#ladok.\n\nDu har tagit emot ett e-post om att fylla i kursvärdering för kursen. Kursvärderingen kan fyllas i direkt på kursplatsen i Canvas eller via direktlänken i e-postmeddelandet. Kursvärderingen är en viktig del av den feedback vi får för en kurs och jag är mycket tacksam om du vill fylla i kursvärderingen.\n\n// "
         }
     },
     "dv1615": {
