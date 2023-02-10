@@ -333,8 +333,8 @@
     },
     "pa1438": {
         "topic": {
-            "before": "Hej,\n\nBra jobbat med topic nu är vi igång med exjobbet på riktigt. Nedan finns återkoppling från Conny och Emil. Använd återkopplingen konstruktivt och se till att din handledare tar del av återkopplingen med.\n\n",
-            "after": "\n\nConny:\n\nEmil:\n\nTilldelad handledare:\n\nKontakta din handledare i handlednings chatten på Discord. Viktigt inför inlämning av proposal är att arbeta med metodbeskrivningen och hur du ska samla in data.\n\n// "
+            "before": "Hej,\n\nBra jobbat med topic nu är vi igång med exjobbet på riktigt. Nedan finns återkoppling från examinatorer och Emil. Använd återkopplingen konstruktivt och se till att din handledare tar del av återkopplingen med.\n\n",
+            "after": "Tilldelad handledare:\n\nKontakta din handledare i handlednings chatten på Discord. Viktigt inför inlämning av proposal är att arbeta med metodbeskrivningen och hur du ska samla in data.\n\n// "
         },
         "projekt": {
             "before": "Bra jobbat med projektet.\n\n",
