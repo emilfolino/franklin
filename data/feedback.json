@@ -340,5 +340,19 @@
             "before": "Bra jobbat med projektet.\n\n",
             "after": "\n\nBedömningsunderlaget för kursen finns på projektsidan för kursen på Canvas.\n\nDu har tagit emot ett e-post om att fylla i kursvärdering för kursen. Kursvärderingen kan fyllas i direkt på kursplatsen i Canvas eller via direktlänken i e-postmeddelandet. Kursvärderingen är en viktig del av den feedback vi får för en kurs och vi är mycket tacksamma om du vill fylla i kursvärderingen.\n\n// "
         }
+    },
+    "dv1677": {
+        "specifikation": {
+            "before": "Hej,\n\nBra jobbat med första delen nu är vi igång. Bra beskrivning och reflektioner av tillvägagångssättet.\n\n",
+            "after": "Kom ihåg att du alltid kan ställa frågor och få återkoppling i Discord.\n\n// "
+        },
+        "refaktorering": {
+            "before": "Bra jobbat med projektet.\n\n",
+            "after": "\n\nBedömningsunderlaget för kursen finns på projektsidan för kursen på Canvas.\n\nDu har tagit emot ett e-post om att fylla i kursvärdering för kursen. Kursvärderingen kan fyllas i direkt på kursplatsen i Canvas eller via direktlänken i e-postmeddelandet. Kursvärderingen är en viktig del av den feedback vi får för en kurs och vi är mycket tacksamma om du vill fylla i kursvärderingen.\n\n// "
+        },
+        "vidareutveckling": {
+            "before": "Bra jobbat med projektet.\n\n",
+            "after": "\n\nBedömningsunderlaget för kursen finns på projektsidan för kursen på Canvas.\n\nDu har tagit emot ett e-post om att fylla i kursvärdering för kursen. Kursvärderingen kan fyllas i direkt på kursplatsen i Canvas eller via direktlänken i e-postmeddelandet. Kursvärderingen är en viktig del av den feedback vi får för en kurs och vi är mycket tacksamma om du vill fylla i kursvärderingen.\n\n// "
+        }
     }
 }
