@@ -347,8 +347,8 @@
             "after": "Kom ihåg att du alltid kan ställa frågor och få återkoppling i Discord.\n\n// "
         },
         "refaktorering": {
-            "before": "Bra jobbat med projektet.\n\n",
-            "after": "\n\nBedömningsunderlaget för kursen finns på projektsidan för kursen på Canvas.\n\nDu har tagit emot ett e-post om att fylla i kursvärdering för kursen. Kursvärderingen kan fyllas i direkt på kursplatsen i Canvas eller via direktlänken i e-postmeddelandet. Kursvärderingen är en viktig del av den feedback vi får för en kurs och vi är mycket tacksamma om du vill fylla i kursvärderingen.\n\n// "
+            "before": "Bra jobbat mongodb, test och frontend ramverket.\n\n",
+            "after": "\n\nKom ihåg att du alltid kan ställa frågor och få återkoppling i sal eller i Discord.\n\n// "
         },
         "vidareutveckling": {
             "before": "Bra jobbat med projektet.\n\n",
