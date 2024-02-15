@@ -185,8 +185,8 @@
             "after": "\n\nBra jobbat! Inlämningen är godkänd!\n\nKom ihåg att du alltid kan be om extra feedback\n\n// "
         },
         "kmom05": {
-            "before": "Hej\n\n",
-            "after": "\nKom ihåg att du alltid kan ställa frågor och få feedback i forumet (https://dbwebb.se/forum/viewforum.php?f=41) och på gitter (https://gitter.im/dbwebb-se/oopython).\n\n// "
+            "before": "Hej\n\nJag har gått igenom inlämningen. När jag läser koden har jag kollat efter följande saker:\n\nYahtzee funkar på studentservern\nKlasserna är korrekta\nNode objekten används korrekt i UnorderedList.\nI app.py initieras och används objekten korrekt och skickas till template filerna\nTesterna verifierar kodens beteende\nInga onödiga eller onödigt avancerade konstruktioner\n\n",
+            "after": "\n\nBra jobbat! Inlämningen är godkänd!\n\nKom ihåg att du alltid kan be om extra feedback\n\n// "
         },
         "kmom06": {
             "before": "Hej\n\n",
