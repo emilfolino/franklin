@@ -189,8 +189,8 @@
             "after": "\n\nBra jobbat! Inlämningen är godkänd!\n\nKom ihåg att du alltid kan be om extra feedback\n\n// "
         },
         "kmom06": {
-            "before": "Hej\n\n",
-            "after": "\nKom ihåg att du alltid kan ställa frågor och få feedback i forumet (https://dbwebb.se/forum/viewforum.php?f=41) och på gitter (https://gitter.im/dbwebb-se/oopython).\n\n// "
+            "before": "Hej\n\nNu är sista delen i Yahtzee avklarat, bra jobbat! Jag hoppas att du har tyckte det har varit roligt att utveckla spelet.\n\nDu har fått ihop en bra struktur i app.py koden. Jag gillar att du har delat upp koden i olika routes ör GET och POST. Det är mycket lättare att läsa och förstå koden då.",
+            "after": "\n\nBra jobbat! Inlämningen är godkänd!\n\nKom ihåg att du alltid kan be om extra feedback\n\n// "
         },
         "projekt": {
             "before": "Hej\n\n",
