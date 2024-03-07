@@ -193,7 +193,7 @@
             "after": "\n\nBra jobbat! Inlämningen är godkänd!\n\nKom ihåg att du alltid kan be om extra feedback\n\n// "
         },
         "kmom07": {
-            "before": "Hej\n\nJag har gått igenom inlämningen. När jag läser koden har jag kollat efter följande saker:\n\nVariabler/Attribut/metod namn är beskrivande: X\nSkapar klasser på rätt sätt: X\nAnvänder objekt korrekt: X\nInga onödiga eller onödigt avancerade konstruktioner: X\nAnvänder rätt konstruktion till rätt saker: X\nUppfyller kraven: X\nBinarySearchTree är implementerat och används korrekt: X\nRekursionen är ok, dvs funktionerna anropar sig själv och har ett basfall: X",
+            "before": "Hej\n\nJag har gått igenom inlämningen. När jag läser koden har jag kollat efter följande saker:\n\nVariabler/Attribut/metod namn är beskrivande: X\nSkapar klasser på rätt sätt: X\nAnvänder objekt korrekt: X\nInga onödiga eller onödigt avancerade konstruktioner: X\nAnvänder rätt konstruktion till rätt saker: X\nUppfyller kraven: X\nBinarySearchTree är implementerat och används korrekt: X\nRekursionen är ok, dvs funktionerna anropar sig själv och har ett basfall: X\n\n",
             "after": "\n\nBra jobbat! Inlämningen är godkänd!\n\nKom ihåg att du alltid kan be om extra feedback\n\n// "
         },
         "kmom10": {
