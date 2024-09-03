@@ -5,24 +5,24 @@
             "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
         },
         "kmom02": {
-            "before": "",
-            "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
+            "before": "När jag rättar din lösning kollar jag att följande saker uppfylls:\n(X betyder att det ser bra ut)\n\nVariabelnamn är beskrivande: X\nAnvänder if/for/while på rätt sätt: X\nInga onödiga eller onödigt avancerade konstruktioner: X\nUppfyller kraven: X ",
+            "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\nPS. om du vill ha mer utförlig återkoppling på din kod, kontakta Andreas, Betty Eller Marie.\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
         },
         "kmom03": {
             "before": "",
-            "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\nDu är nu halvvägs genom de sex veckoinlämningar som ingår i kursen. Hoppas allt flyter på i kursen och med Python programmering.\n\n// "
+            "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\nPS. om du vill ha mer utförlig återkoppling på din kod, kontakta Andreas, Betty Eller Marie.\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
         },
         "kmom04": {
             "before": "",
-            "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
+            "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\nPS. om du vill ha mer utförlig återkoppling på din kod, kontakta Andreas, Betty Eller Marie.\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
         },
         "kmom05": {
             "before": "",
-            "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
+            "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\nPS. om du vill ha mer utförlig återkoppling på din kod, kontakta Andreas, Betty Eller Marie.\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
         },
         "kmom06": {
             "before": "",
-            "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\nLycka med projektet.\n\n// "
+            "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\nPS. om du vill ha mer utförlig återkoppling på din kod, kontakta Andreas, Betty Eller Marie.\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// Lycka till med projektet.\n\n// "
         },
         "individuell examination": {
             "before": "",
