@@ -5,23 +5,23 @@
             "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
         },
         "kmom02": {
-            "before": "När jag rättar din lösning kollar jag att följande saker uppfylls:\n(X betyder att det ser bra ut)\n\nVariabelnamn är beskrivande: X\nAnvänder if/for/while på rätt sätt: X\nInga onödiga eller onödigt avancerade konstruktioner: X\nUppfyller kraven: X ",
+            "before": "\nNär jag rättar din lösning kollar jag att följande saker uppfylls:\n(X betyder att det ser bra ut)\n\nVariabelnamn är beskrivande: X\nAnvänder if/for/while på rätt sätt: X\nInga onödiga eller onödigt avancerade konstruktioner: X\nUppfyller kraven: X\n\n",
             "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\nPS. om du vill ha mer utförlig återkoppling på din kod, kontakta Andreas, Betty Eller Marie.\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
         },
         "kmom03": {
-            "before": "",
+            "before": "\nNär jag rättar din lösning kollar jag att följande saker uppfylls:\n(X betyder att det ser bra ut)\nVariabelnamn är beskrivande: X\nAnvänder funktioner och moduler på rätt sätt: X\nInga onödiga eller onödigt avancerade konstruktioner: X\nUppfyller kraven: X\n\n",
             "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\nPS. om du vill ha mer utförlig återkoppling på din kod, kontakta Andreas, Betty Eller Marie.\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
         },
         "kmom04": {
-            "before": "",
+            "before": "\nNär jag rättar din lösning kollar jag att följande saker uppfylls:\n(X betyder att det ser bra ut)\n\nVariabelnamn är beskrivande: X\nAnvänder funktioner och  på rätt sätt: X\nAnvänder listor på rätt sätt: X\nInga onödiga eller onödigt avancerade konstruktioner: X\nUppfyller kraven: X\n\n ",
             "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\nPS. om du vill ha mer utförlig återkoppling på din kod, kontakta Andreas, Betty Eller Marie.\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
         },
         "kmom05": {
-            "before": "",
+            "before": "\nNär jag rättar din lösning kollar jag att följande saker uppfylls:\n(X betyder att det ser bra ut)\n\nVariabelnamn är beskrivande: X\nAnvänder funktioner och  på rätt sätt: X\nAnvänder dictionary på rätt sätt: X\nAnvänder tupler på rätt sätt: X\nInga onödiga eller onödigt avancerade konstruktioner: X\nUppfyller kraven: X\n\n",
             "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\nPS. om du vill ha mer utförlig återkoppling på din kod, kontakta Andreas, Betty Eller Marie.\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// "
         },
         "kmom06": {
-            "before": "",
+            "before": "\nNär jag rättar din lösning kollar jag att följande saker uppfylls:\n(X betyder att det ser bra ut)\n\nVariabelnamn är beskrivande: X\nAnvänder funktioner och  på rätt sätt: X\nAnvänder dictionary på rätt sätt: X\nAnvänder tupler på rätt sätt: X\nInga onödiga eller onödigt avancerade konstruktioner: X\nUppfyller kraven: X\n\n",
             "after": "\nHär beskrivs vilken feedback du kan förvänta dig på rättningarna: https://dbwebb.se/kurser/faq/vilken-feedback-far-man-pa-inlamningarna\nPS. om du vill ha mer utförlig återkoppling på din kod, kontakta Andreas, Betty Eller Marie.\n\nKom ihåg att du alltid kan ställa frågor och få feedback i discord chatten.\n\n// Lycka till med projektet.\n\n// "
         },
         "individuell examination": {
